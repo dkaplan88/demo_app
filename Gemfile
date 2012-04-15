@@ -24,7 +24,7 @@ end
 
 gem 'jquery-rails'
 
-gem 'rake' , '>= 0.9.2'
+gem 'rake' , '>= 0.8.7'
 
 group :production do
   gem 'pg', '0.12.2'
